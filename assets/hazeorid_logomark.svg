@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6000"
+   height="2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hazeorid_logomark.svg"
+   inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid_logomark.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.16491014"
+     inkscape:cx="3742.3686"
+     inkscape:cy="1383.7288"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:showpageshadow="false" />
+  <rect
+     style="fill:#e3f2fd;fill-opacity:1;stroke:none"
+     id="rect4299"
+     width="6000"
+     height="2000"
+     x="0"
+     y="0" />
+  <g
+     id="g4285"
+     transform="translate(500,-700)">
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#42a5f5;stroke:none;overflow:visible"
+       id="path4"
+       overflow="visible"
+       d="m 0,1400 v 200 h 100 v 200 H 0 v 200 h 200 v -100 h 200 v 100 H 600 V 1800 H 500 V 1600 H 600 V 1400 H 400 v 100 H 200 V 1400 H 0 z m 200,200 h 200 v 200 H 200 v -200 z">
+      <title
+         id="title6">logogram</title>
+    </path>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-7"
+       d="m 700,1400 0,200 0,100 0,300 100,0 0,-300 200,0 0,300 100,0 0,-300 0,-100 -300,0 0,-200 -100,0 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-1-8-9"
+       d="m 1200,1600 0,100 300,0 0,50 -300,0 0,100 0,150 100,0 300,0 0,-100 0,-200 0,-100 -400,0 z m 100,250 200,0 0,50 -200,0 0,-50 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-1-8-55-7"
+       d="m 1700,1600 0,100 200,0 0,100 100,0 0,-100 100,0 0,-100 -400,0 z m 200,200 -100,0 0,100 -100,0 0,100 400,0 0,-100 -200,0 0,-100 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-1-8-2-2"
+       d="m 2200,1600 0,100 0,50 0,100 0,50 0,100 400,0 0,-100 -300,0 0,-50 300,0 0,-100 0,-150 -300,0 -100,0 z m 100,100 200,0 0,50 -200,0 0,-50 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-85-9"
+       d="m 2700,1600 0,100 0,200 0,100 100,0 300,0 0,-100 0,-200 0,-100 -400,0 z m 100,100 200,0 0,200 -200,0 0,-200 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-1-8-20-9"
+       d="m 3200,1600 0,100 0,300 100,0 0,-300 300,0 0,-100 -300,0 -100,0 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4129-2"
+       d="m 3700,1400 0,100 100,0 0,-100 -100,0 z m 0,200 0,400 100,0 0,-400 -100,0 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect2989-2-5"
+       d="m 4200,1400 0,200 -300,0 0,100 0,200 0,100 100,0 300,0 0,-100 0,-500 -100,0 z m -200,300 200,0 0,200 -200,0 0,-200 z"
+       style="fill:#455a64;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#1976d2;stroke:none;overflow:visible"
+       id="path4-6"
+       overflow="visible"
+       d="m 4400,1400 v 200 h 100 v 200 h -100 v 200 h 200 v -100 h 200 v 100 h 200 v -200 h -100 v -200 h 100 v -200 h -200 v 100 h -200 v -100 h -200 z m 200,200 h 200 v 200 h -200 v -200 z">
+      <title
+         id="title6-6">logogram</title>
+    </path>
+  </g>
+</svg>
