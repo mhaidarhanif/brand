@@ -12,10 +12,10 @@
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg2"
-   height="1000"
+   height="2000"
    width="1000"
-   sodipodi:docname="hazeorid_logo_on_light.svg"
-   inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid-logogram.png"
+   sodipodi:docname="hazeorid_logo_abstract_on_light.svg"
+   inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/abstract/hazeorid_logo_abstract_on_light.png"
    inkscape:export-xdpi="75"
    inkscape:export-ydpi="75">
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23055108"
-     inkscape:cx="1573.4621"
-     inkscape:cy="21.009624"
+     inkscape:zoom="0.17321644"
+     inkscape:cx="2471.368"
+     inkscape:cy="837.38497"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -45,7 +45,7 @@
      inkscape:snap-bbox="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid3777"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,25 +72,26 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Color"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,1000)">
     <g
-       id="g3013"
-       transform="translate(-1000,2.4999999e-6)">
+       id="g2999"
+       transform="translate(-1536.7363,-815.65664)">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
          style="color:#000000;fill:#e3f2fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 1000,2.5e-5 1000,0 0,999.999945 -1000,0 z"
-         id="path3202"
+         d="m 1536.7363,-184.34336 1000,0 0,999.99994 -1000,0 z"
+         id="path3202-4"
          inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
          inkscape:connector-curvature="0"
-         id="path4023"
-         d="m 1200,199.99997 0,200 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200 -200,0 0,-200 z"
+         id="path4023-8"
+         d="m 1736.7363,15.656608 0,200.000002 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200.000002 -200,0 0,100.000002 -200,0 0,-100.000002 -200,0 z m 200,200.000002 200,0 0,200 -200,0 0,-200 z"
          style="color:#000000;fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          inkscape:export-ydpi="90"
@@ -98,13 +99,13 @@
          inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         id="path4025"
-         d="m 1600,399.99997 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200 z"
+         id="path4025-0"
+         d="m 1936.7363,215.65661 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200.000002 z"
          style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 1600,399.99997 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
-         id="path4027"
+         d="m 2136.7363,415.65661 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
+         id="path4027-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc"
          inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
@@ -112,8 +113,55 @@
          inkscape:export-ydpi="90" />
       <path
          style="color:#000000;fill:#1e88e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 1400,599.99997 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
-         id="path4029"
+         d="m 1936.7363,215.65661 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
+         id="path4029-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g3006"
+       transform="translate(-1000,-1000)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;fill:#e3f2fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1000,999.99997 1000,0 0,1000.00003 -1000,0 z"
+         id="path3202-5"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="path4023-2"
+         d="m 1200,1200 0,200 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200 -200,0 0,-200 z"
+         style="color:#000000;fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4025-1"
+         d="m 1600,1400 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200 z"
+         style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1600,1600 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
+         id="path4027-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="color:#000000;fill:#1e88e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1400,1400 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
+         id="path4029-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc"
          inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
@@ -122,24 +170,24 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path3202-4"
-       d="m 1536.7363,-184.34336 1000,0 0,999.99994 -1000,0 z"
+       id="path3202-4-3"
+       d="m 1000,-1000 1000,0 0,999.99994 -1000,0 z"
        style="color:#000000;fill:#e3f2fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1736.7363,15.656608 0,200.000002 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200.000002 -200,0 0,100.000002 -200,0 0,-100.000002 -200,0 z m 200,200.000002 200,0 0,200 -200,0 0,-200 z"
-       id="path4023-8"
+       style="color:#000000;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1200,-800.00003 0,200 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200 -200,0 0,-200 z"
+       id="path4023-8-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1936.7363,215.65661 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200.000002 z"
-       id="path4025-0"
+       style="color:#000000;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1400,-600.00003 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200 z"
+       id="path4025-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
@@ -151,38 +199,38 @@
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
-       id="path4027-0"
-       d="m 2136.7363,415.65661 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
-       style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path4027-0-7"
+       d="m 1600,-400.00003 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
+       style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
-       id="path4029-2"
-       d="m 1936.7363,215.65661 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
-       style="color:#000000;fill:#1e88e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path4029-2-9"
+       d="m 1400,-600.00003 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
+       style="color:#000000;fill:#ffc107;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
-       id="path3202-5"
-       d="m 1000,999.99997 1000,0 0,1000.00003 -1000,0 z"
+       id="path3202-5-9"
+       d="m 1000,-3e-5 1000,0 0,1000.00003 -1000,0 z"
        style="color:#000000;fill:#e3f2fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#1976d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1200,1200 0,200 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200 -200,0 0,-200 z"
-       id="path4023-2"
+       style="color:#000000;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1200,200 0,200 100,0 0,200 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200 -200,0 0,-200 z"
+       id="path4023-2-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1600,1400 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200 z"
-       id="path4025-1"
+       style="color:#000000;fill:#00bcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 1600,400 0,200 200,200 0,-200 -100,0 0,-200 100,0 0,-200 z"
+       id="path4025-1-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
@@ -194,17 +242,17 @@
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
-       id="path4027-2"
-       d="m 1600,1600 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
-       style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path4027-2-8"
+       d="m 1600,600 -200,0 -200,-200 200,0 0,100 200,0 0,-100 200,0 z"
+       style="color:#000000;fill:#2196f3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
-       id="path4029-1"
-       d="m 1400,1400 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
-       style="color:#000000;fill:#1e88e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path4029-1-5"
+       d="m 1400,400 200,0 200,200 -200,0 0,-100 -200,0 0,100 -200,0 z"
+       style="color:#000000;fill:#ffc107;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
