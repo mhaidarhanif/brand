@@ -12,10 +12,10 @@
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg2"
-   height="70"
-   width="70"
-   sodipodi:docname="hazeorid_logo_favicon.svg"
-   inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid_logo.png"
+   height="100"
+   width="100"
+   sodipodi:docname="hazeorid_logo_on-white.svg"
+   inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid_logo_on_white.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0229785"
-     inkscape:cx="84.548328"
-     inkscape:cy="30.354753"
+     inkscape:zoom="1.281845"
+     inkscape:cx="116.75623"
+     inkscape:cy="43.976508"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -45,7 +45,7 @@
      inkscape:snap-bbox="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3777"
@@ -73,23 +73,18 @@
      id="layer2"
      inkscape:label="Color"
      style="display:inline"
-     transform="translate(0,-930)">
-    <g
-       id="g3002"
-       transform="translate(-15,15)">
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccc"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
-         inkscape:connector-curvature="0"
-         id="path4023-4-6"
-         d="m 15,915 0,30 10,0 0,10 -10,0 0,30 30,0 0,-10 10,0 0,10 30,0 0,-30 -10,0 0,-10 10,0 0,-30 -30,0 0,10 -10,0 0,-10 z m 30,30 10,0 0,10 -10,0 z"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+     transform="translate(0,-900)">
     <path
-       style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 5,935 0,20 10,0 0,20 -10,0 0,20 20,0 0,-10 20,0 0,10 20,0 0,-20 -10,0 0,-20 10,0 0,-20 -20,0 0,10 -20,0 0,-10 -20,0 z m 20,20 20,0 0,20 -20,0 0,-20 z"
+       inkscape:connector-curvature="0"
+       id="path3202-8"
+       d="m 0,899.99999 100,0 0,100 -100,0 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 20,919.99999 0,20 10,0 0,20 -10,0 0,20 20,0 0,-10 20,0 0,10 20,0 0,-20 -10,0 0,-20 10,0 0,-20 -20,0 0,10 -20,0 0,-10 -20,0 z m 20,20 20,0 0,20 -20,0 0,-20 z"
        id="path4023-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"

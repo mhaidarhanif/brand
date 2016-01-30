@@ -12,9 +12,9 @@
    inkscape:version="0.48.4 r9939"
    version="1.1"
    id="svg2"
-   height="70"
-   width="70"
-   sodipodi:docname="hazeorid_logo_favicon.svg"
+   height="60"
+   width="60"
+   sodipodi:docname="hazeorid_logo-rounded.svg"
    inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid_logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0229785"
-     inkscape:cx="84.548328"
-     inkscape:cy="30.354753"
+     inkscape:zoom="4.4252765"
+     inkscape:cx="42.129822"
+     inkscape:cy="4.3629885"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -42,10 +42,13 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:guide-bbox="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:bbox-nodes="false"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
        id="grid3777"
@@ -73,27 +76,19 @@
      id="layer2"
      inkscape:label="Color"
      style="display:inline"
-     transform="translate(0,-930)">
-    <g
-       id="g3002"
-       transform="translate(-15,15)">
-      <path
-         sodipodi:nodetypes="cccccccccccccccccccccccccc"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
-         inkscape:connector-curvature="0"
-         id="path4023-4-6"
-         d="m 15,915 0,30 10,0 0,10 -10,0 0,30 30,0 0,-10 10,0 0,10 30,0 0,-30 -10,0 0,-10 10,0 0,-30 -30,0 0,10 -10,0 0,-10 z m 30,30 10,0 0,10 -10,0 z"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
+     transform="translate(0,-940)">
     <path
        style="color:#000000;fill:#42a5f5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 5,935 0,20 10,0 0,20 -10,0 0,20 20,0 0,-10 20,0 0,10 20,0 0,-20 -10,0 0,-20 10,0 0,-20 -20,0 0,10 -20,0 0,-10 -20,0 z m 20,20 20,0 0,20 -20,0 0,-20 z"
-       id="path4023-4"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       d="M 5 0 C 2.238577 0 0 2.23858 0 5 L 0 15 C 0 17.76142 2.238577 20 5 20 C 7.761423 20 10 22.23858 10 25 L 10 35 C 10 37.76142 7.761423 40 5 40 C 2.238577 40 0 42.23858 0 45 L 0 55 C 0 57.76142 2.238577 60 5 60 L 15 60 C 17.76142 60 20 57.76142 20 55 C 20 52.23858 22.238577 50 25 50 L 35 50 C 37.761423 50 40 52.23858 40 55 C 40 57.76142 42.23858 60 45 60 L 55 60 C 57.761423 60 60 57.76142 60 55 L 60 45 C 60 42.23858 57.761423 40 55 40 C 52.238577 40 50 37.76142 50 35 L 50 25 C 50 22.23858 52.238577 20 55 20 C 57.761423 20 60 17.76142 60 15 L 60 5 C 60 2.23858 57.761423 0 55 0 L 45 0 C 42.23858 0 40 2.23858 40 5 C 40 7.76142 37.761423 10 35 10 L 25 10 C 22.238577 10 20 7.76142 20 5 C 20 2.23858 17.76142 0 15 0 L 5 0 z M 25 20 L 35 20 C 37.761423 20 40 22.23858 40 25 L 40 35 C 40 37.76142 37.761423 40 35 40 L 25 40 C 22.238577 40 20 37.76142 20 35 L 20 25 C 20 22.23858 22.238577 20 25 20 z "
+       transform="translate(0,940)"
+       id="path4023-4" />
+    <rect
+       style="fill:#00e676;fill-opacity:1;stroke:none"
+       id="rect2999-0"
+       width="10"
+       height="4.6325681e-07"
+       x="-950"
+       y="19.99999"
+       transform="matrix(0,-1,1,0,0,0)" />
   </g>
 </svg>
