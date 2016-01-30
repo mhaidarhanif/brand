@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4979531"
-     inkscape:cx="21.235466"
-     inkscape:cy="40.989258"
+     inkscape:zoom="5.3545843"
+     inkscape:cx="64.530893"
+     inkscape:cy="36.60214"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -45,7 +45,7 @@
      inkscape:snap-bbox="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid3777"
@@ -76,7 +76,7 @@
      transform="translate(0,-900)">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
-       d="m 15,915 0,30 10,0 0,10 -10,0 0,30 30,0 0,-10 10,0 0,10 30,0 0,-30 -10,0 0,-10 10,0 0,-30 -30,0 0,10 -10,0 0,-10 z m 30,30 10,0 0,10 -10,0 z"
+       d="m 18,918 0,24 10,0 0,16 -10,0 0,24 24,0 0,-10 16,0 0,10 24,0 0,-24 -10,0 0,-16 10,0 0,-24 -24,0 0,10 -16,0 0,-10 z m 24,24 16,0 0,16 -16,0 z"
        id="rect2986-5-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccc" />

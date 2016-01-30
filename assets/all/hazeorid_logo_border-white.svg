@@ -14,7 +14,7 @@
    id="svg2"
    height="100"
    width="100"
-   sodipodi:docname="hazeorid_logo_favicon.svg"
+   sodipodi:docname="hazeorid_logo_border-white.svg"
    inkscape:export-filename="/home/agnium/all/repo/hazeorid/hazeorid-brand/assets/hazeorid_logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.867804"
-     inkscape:cx="21.803694"
+     inkscape:cx="22.419988"
      inkscape:cy="34.41316"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -76,7 +76,7 @@
      transform="translate(0,-900)">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-       d="m 15,915 0,30 10,0 0,10 -10,0 0,30 30,0 0,-10 10,0 0,10 30,0 0,-30 -10,0 0,-10 10,0 0,-30 -30,0 0,10 -10,0 0,-10 z m 30,30 10,0 0,10 -10,0 z"
+       d="m 18,918 0,24 10,0 0,16 -10,0 0,24 24,0 0,-10 16,0 0,10 24,0 0,-24 -10,0 0,-16 10,0 0,-24 -24,0 0,10 -16,0 0,-10 z m 24,24 16,0 0,16 -16,0 z"
        id="rect2986-5-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccccc" />
